@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(SOV_sorm2496.woff)
+      src: url(MiPancake.woff)
     }
     #font1{
 	font-family: myFont1;    
