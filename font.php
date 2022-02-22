@@ -6,7 +6,7 @@
   <style>
     @font-face{
       font-family: myFont1;
-      src: url(SOV_sorm2496.woff)
+      src: url(MNNTuaklom.woff)
     }
     @font-face{
       font-family: myFont2;
