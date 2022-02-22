@@ -16,7 +16,7 @@
 	font-family: myFont1;    
     }
     #font1{
-	font-family: myFont1;    
+	font-family: myFont2;    
     }
   </style>
 </head>
